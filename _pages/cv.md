@@ -11,54 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, [William & Mary](https://www.wm.edu/), 2028 (expected)
+* BSSE degree from [Institute of Information Technology(IIT)](http://www.iit.du.ac.bd/) of [University of Dhaka](https://www.du.ac.bd/), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assistant (Aug 2024 - Dec 2024):
+  * [William & Mary](https://www.wm.edu/)
+  * Course: CSCI 464: Applied Cybersecurity
+  * Supervisor: [Dr. Matthew Chapman](https://drchap.pages.wm.edu/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant (Jan 2024 - May 2024):
+  * [William & Mary](https://www.wm.edu/)
+  * Course: CSCI 141: Computational Problem Solving
+  * Supervisor: [Dr. Matthew Chapman](https://drchap.pages.wm.edu/)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant (Aug 2023 - Dec 2023):
+  * [William & Mary](https://www.wm.edu/)
+  * Course: [CSCI 312: Principles of Program Language](https://www.cs.wm.edu/~tadavis/cs312/)
+  * Supervisor: [Dr. Timothy A. Davis](https://www.cs.wm.edu/~tadavis/)
+
+* Software Engineer (Dec 2022 - Aug 2023)
+  * [Kona Software Lab](https://www.konasl.com/)
+  * Supervisor: [Nazmul Quader Zinnuree](https://www.linkedin.com/in/zinnuree/)
+
+* Intern (Jan 2022 - June 2022)
+  * [Secure Link Services Ltd](https://selisegroup.com/)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+<!--   
+Projects
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
