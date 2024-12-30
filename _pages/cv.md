@@ -79,24 +79,20 @@ Skills
   
 Projects
 ======
-* InDez (ARFoundation, C#, Unity) 
-  * Source: https://github.com/mh-sun/Indez
-  * It Places 3D furniture into real-world images though a phone camera.
+* [InDez](https://github.com/mh-sun/Indez) (ARFoundation, C#, Unity) 
+  * The app places 3D furniture into real-world images though a phone camera.
   * User can move from one place to another but the placed object will be static.
   * User can change the object's scale and rotation to be more realistic.
 
-* Wumpus World (Python, Pygame) 
-  * Source: https://github.com/mh-sun/Wumpus
+* [Wumpus World](https://github.com/mh-sun/Wumpus) (Python, Pygame) 
   * Developed an AI which will walk over the game path, avoiding the pit and monsters
   * Its goal is to collect gold as much as possible.
 
-* Face Inpainter (PyTorch)
-  * Source: https://tinyurl.com/face-inpaint
+* [Face Inpainter](https://tinyurl.com/face-inpaint) (PyTorch)
   * Fill up the missing portion of the face image using GAN
   * Implemented Paper : https://arxiv.org/abs/1911.11394
 
-* Ride-Sharing App(Python, Flask, MongoDB, Docker, Nginx)
-  * Source: github.com/mh-sun/distributed_system_lab
+* [Ride-Sharing App](github.com/mh-sun/distributed_system_lab) (Python, Flask, MongoDB, Docker, Nginx)
   * A Docker version of a server-client app that Implements micro-service.
 
 Other Activities
