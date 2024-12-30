@@ -38,14 +38,26 @@ Work experience
 * Intern (Jan 2022 - June 2022)
   * [Secure Link Services Ltd](https://selisegroup.com/)
   
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Scripting Languages
+  * Python
+  * C++
+  * C#
+  * Java
+  * JavaScript
+  * TypeScript
+  
+* Frontend Frameworks
+  * AR Foundation
+  * Angular
+  * Tailwind
+  * Bootstrap
+
+* Backend Frameworks
+  * ASP.NET Core
+  * Flask
+  * Django
 
 <!-- Publications
 ======
@@ -64,7 +76,33 @@ Work experience
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-<!--   
+  
 Projects
 ======
-* Currently signed in to 43 different slack teams -->
+* InDez (ARFoundation, C#, Unity) 
+  * Source: https://github.com/mh-sun/Indez
+  * It Places 3D furniture into real-world images though a phone camera.
+  * User can move from one place to another but the placed object will be static.
+  * User can change the object's scale and rotation to be more realistic.
+
+* Wumpus World (Python, Pygame) 
+  * Source: https://github.com/mh-sun/Wumpus
+  * Developed an AI which will walk over the game path, avoiding the pit and monsters
+  * Its goal is to collect gold as much as possible.
+
+* Face Inpainter (PyTorch)
+  * Source: https://tinyurl.com/face-inpaint
+  * Fill up the missing portion of the face image using GAN
+  * Implemented Paper : https://arxiv.org/abs/1911.11394
+
+* Ride-Sharing App(Python, Flask, MongoDB, Docker, Nginx)
+  * Source: github.com/mh-sun/distributed_system_lab
+  * A Docker version of a server-client app that Implements micro-service.
+
+Other Activities
+======
+* IIT Software Engineers' Community
+  * Served as IT Secretary (Jan 2020 - Dec 2020)
+  * Served as Executive Member (Jan 2019 - Dec 2019)
+  * Arranged programming contest in ITverse '20 Program.
+  * Member of Management Team in Tech Crunch 2.0 Program.
